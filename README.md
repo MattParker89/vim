@@ -9,6 +9,6 @@ My vim files.
 * `sudo mv .vim/.vimrc .vimrc`
 
 One command
-* `curl https://raw.github.com/joslinm/vim/master/install.sh | bash`
+* `curl https://raw.github.com/MattParker89/vim/master/install.sh | bash`
 
 And you're good to go
