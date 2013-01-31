@@ -21,6 +21,9 @@ set nocompatible
 " allow backspacing over everything in insert mode
 set backspace=indent,eol,start
 
+"Add line numbers
+set number
+
 " I like 4 spaces for indenting
 set shiftwidth=2
 
